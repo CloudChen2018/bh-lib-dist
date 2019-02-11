@@ -1,0 +1,23 @@
+{
+  "name": "bh-lib",
+  "description": "Black Hand Library",
+  "author": "CloudChen <cloudchen2015@gmail.com>",
+  "version": "0.3.1",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "main": "bundles/bh-lib.umd.js",
+  "module": "fesm5/bh-lib.js",
+  "es2015": "fesm2015/bh-lib.js",
+  "esm5": "esm5/bh-lib.js",
+  "esm2015": "esm2015/bh-lib.js",
+  "fesm5": "fesm5/bh-lib.js",
+  "fesm2015": "fesm2015/bh-lib.js",
+  "typings": "bh-lib.d.ts",
+  "metadata": "bh-lib.metadata.json",
+  "sideEffects": false
+}

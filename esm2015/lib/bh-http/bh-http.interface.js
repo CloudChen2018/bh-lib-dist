@@ -1,0 +1,9 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * @record
+ */
+export function BhHttpParams() { }
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYmgtaHR0cC5pbnRlcmZhY2UuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9iaC1saWIvIiwic291cmNlcyI6WyJsaWIvYmgtaHR0cC9iaC1odHRwLmludGVyZmFjZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBR0Esa0NBRUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiDCqSBDbG91ZENoZW4gPGNsb3VkY2hlbjIwMTVAZ21haWwuY29tPi4gQWxsIFJpZ2h0cyBSZXNlcnZlZCBcclxuICovXHJcbmV4cG9ydCBpbnRlcmZhY2UgQmhIdHRwUGFyYW1zIHtcclxuICBba2V5OiBzdHJpbmddOiBzdHJpbmcgfCBudW1iZXIgfCBib29sZWFuXHJcbn0iXX0=
